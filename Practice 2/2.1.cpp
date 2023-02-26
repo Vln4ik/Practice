@@ -1,4 +1,4 @@
-#include <iosrteam>
+#include <iostream>
 #include "Header1.h"
 int main() {
 	tringle mas[3];
